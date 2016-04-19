@@ -1,0 +1,21 @@
+.navbar-brand {
+	font-weight: bold;
+	font-size: 32px;
+	margin: 20px;
+}
+
+.nav.navbar-nav {
+	background-color: #d7eefa;
+	text-align: center;
+}
+
+.row {
+	background-color: #ffcc66;
+	height: 1000px;
+	margin: 15px;
+}
+
+.row p {
+	font-size: 16px;
+	padding: 25px;
+}
